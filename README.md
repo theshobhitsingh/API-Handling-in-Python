@@ -51,10 +51,11 @@ pip install requests
 
 ### 📂 File Structure
 
-project/
-│
-├── script_name.py      # Main script demonstrating API calls
-└── README.md           # Project documentation
+project/<br>
+│<br>
+├── script_name.py      # Main script demonstrating API calls<br>
+└── README.md           # Project documentation<br>
+<br>
 
 ### 📌 Use Cases
 ***Learning how to consume RESTful APIs in Python***
